@@ -1,12 +1,14 @@
-= Sublime Open With Finder
+Sublime Open With Finder
+==============
 
 Sublime Text2 Package
 
-== License
+License
+--------------
 
 All of Sublime Open With Finder is licensed under the MIT license.
 
-  Copyright (c) 2012 Daisuke Yokoyama <c2nprds@gmail.com>
+  Copyright (c) 2012 Daisuke Yokoyama <<c2nprds@gmail.com>>
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
