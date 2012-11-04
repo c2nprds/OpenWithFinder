@@ -1,18 +1,39 @@
 Sublime Open With Finder
 ==============
 
-Sublime Text2 Package
+Sublime Text 2 Package
 
 How to install
 --------------
-1. Clone git repo into your packages folder (in Sublime Text2, find Browse Packages... menu item to open this folder)
-2. Restart Sublime Text2 editor (if required)
 
-Or with package control:
+**Without Git:** Download the latest source from [GitHub](https://github.com/c2nprds/OpenWithFinder) and copy the OpenWithFinder folder to your Sublime Text 2 "Packages" directory.
+
+**With Git:** Clone the repository in your Sublime Text2 "Packages" directory:
+
+    git clone https://github.com/c2nprds/OpenWithFinder.git
+
+
+The "Packages" directory is located at:
+
+* OS X:
+
+        ~/Library/Application Support/Sublime Text 2/Packages/
+
+* Linux:
+
+        ~/.config/sublime-text-2/Packages/
+
+* Windows:
+
+        %APPDATA%/Sublime Text 2/Packages/
+
+2. Restart Sublime Text 2 editor (if required)
+
+**With Package Control:**
 
 1. Package Control: Add Repository `https://github.com/c2nprds/OpenWithFinder`
 2. Package Control: Install Package `OpenWithFinder`
-3. Restart ST2 editor (if required)
+3. Restart ST 2 editor (if required)
 
 How to use
 --------------
