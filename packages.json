@@ -1,16 +1,16 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "packages": [
     {
-        "name": "OpenWithFinder",
-        "description": "A Open With Finder",
+        "name": "Open With Finder",
+        "description": "Sublime Text 2 Package : Open With Finder",
         "author": "c2nprds",
         "homepage": "https://github.com/c2nprds/OpenWithFinder",
         "platforms": {
-          "*": [
+          "osx": [
             {
               "version": "1.0.0",
-              "url": "https://nodeload.github.com/c2nprds/OpenWithFinder/zipball/v1.0.0"
+              "url": "https://nodeload.github.com/c2nprds/OpenWithFinder/zip/v1.0.0"
             }
           ]
         }

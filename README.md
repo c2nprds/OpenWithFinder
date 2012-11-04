@@ -27,13 +27,13 @@ The "Packages" directory is located at:
 
         %APPDATA%/Sublime Text 2/Packages/
 
-2. Restart Sublime Text 2 editor (if required)
+Restart Sublime Text 2 editor (if required)
 
 **With Package Control:**
 
 1. Package Control: Add Repository `https://github.com/c2nprds/OpenWithFinder`
 2. Package Control: Install Package `OpenWithFinder`
-3. Restart ST 2 editor (if required)
+3. Restart Sublime Text 2 editor (if required)
 
 How to use
 --------------
