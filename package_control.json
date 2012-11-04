@@ -6,7 +6,6 @@
         "description": "A Open With Finder",
         "author": "c2nprds",
         "homepage": "https://github.com/c2nprds/OpenWithFinder",
-        "platforms": ["*"]
         "platforms": {
           "*": [
             {
