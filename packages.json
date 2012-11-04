@@ -1,3 +1,4 @@
+
 {
 	"schema_version": "1.2",
 	"packages": [
@@ -6,12 +7,12 @@
 			"description": "A Open With Finder",
 			"author": "c2nprds",
 			"homepage": "https://github.com/c2nprds/OpenWithFinder",
-			"last_modified": "2012-11-04 08:34",
+			"last_modified": "2012-11-04 08:57",
 			"platforms": {
 				"*": [
 					{
-						"version": "1.0.0",
-						"url": "https://nodeload.github.com/c2nprds/OpenWithFinder/zipball/v1.0.0"
+						"version": "1.0.1",
+						"url": "https://github.com/c2nprds/OpenWithFinder/zipball/v1.0.1"
 					}
 				]
 			}
