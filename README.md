@@ -42,7 +42,7 @@ How to use
 
 Supported
 --------------
-OSX only
+OSX, Windows only
 
 License
 --------------
