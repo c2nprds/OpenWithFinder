@@ -1,5 +1,4 @@
 import sublime, sublime_plugin
-import os
 
 class OpenWithFinderCommand(sublime_plugin.WindowCommand):
   def run(self):
@@ -14,6 +13,11 @@ class OpenWithFinderCommand(sublime_plugin.WindowCommand):
       elif sublime.platform() == 'windows':
         # windows
         subprocess.Popen(r'explorer /select, "' + self.window.active_view().file_name() + '"')
+
+      else:
+        #linux
+        subprocess.call(['open', '-R', self.window.active_view().file_name()])
+
 
     else:
       sublime.error_message(__name__ + ": No file to open.")
